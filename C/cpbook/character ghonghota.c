@@ -1,3 +1,7 @@
+//problem-58 character ghonghota
+//nahin bin kaysar
+//http://cpbook.subeen.com/2016/02/blog-post_73.html
+
 #include <stdio.h>
 #include <string.h>
 

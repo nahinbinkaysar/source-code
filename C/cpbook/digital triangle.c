@@ -1,6 +1,6 @@
 //problem-29 digital triangle
 //nahin bin kaysar
-http://cpbook.subeen.com/2013/01/digital-trivuz.html
+//http://cpbook.subeen.com/2013/01/digital-trivuz.html
 
 #include <stdio.h>
 
